@@ -1,0 +1,27 @@
+.signup-wrapper{
+    width: 50%;
+    margin: auto;
+}
+
+.title{
+    text-align: center;
+    margin-top: 20px;
+}
+.sign{
+    padding-left: 650px;
+}
+#Button{
+    padding-left: 150px;
+}
+.submit-button {
+    margin-right: 10px; 
+  }
+  
+  
+  .google-signin-button {
+    background-color:white;
+    color:black;
+    padding-left: 50px;
+    
+  }
+ 
